@@ -1,5 +1,5 @@
 # Cat vs Dog Image Classification using Convolutional Neural Networks
-Welcome to our Cat vs Dog Image Classification project! This project leverages the power of Convolutional Neural Networks (CNNs) to detect if an image is a cat or a dog.
+Welcome to my Cat vs Dog Image Classification project! This project leverages the power of Convolutional Neural Networks (CNNs) to detect if an image is a cat or a dog.
 ## Table of Contents
 [Introduction](#introduction) <br>
 [Requirement](#requirement)<br>
